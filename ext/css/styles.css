@@ -3,6 +3,9 @@ html, body {
    height:100%;
 }
 
+
+/* Takeover */
+
 #credits{
   position: absolute;
   bottom: 5px;
@@ -27,4 +30,20 @@ html, body {
   top: 0; left: 0; bottom: 0; right: 0;
   width: 500px;
 height: 500px;
+}
+
+
+/* Popup */
+
+#mainPopup {
+  padding: 10px;
+  height: 180px;
+  width: 300px;
+  font-family: Helvetica, Ubuntu, Arial, sans-serif;
+  color: #ccc;
+}
+h1 {
+  font-size: 2em;
+  color: #1a2fda;
+  font-weight: lighter;
 }
